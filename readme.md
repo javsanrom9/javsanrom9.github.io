@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : MI Proyecto(nombre)
 
-**Web:**   (url github.io)
+**Web:**   https://javsanrom9.github.io/
 
 **Autor:**  (Nombre apellidos)
 
